@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
+title: "Peter's First Post"
 date: 2019-01-04T15:59:28-08:00
 ---
 
-Hello from Render!
+Hello from Peter, using Render!
 
